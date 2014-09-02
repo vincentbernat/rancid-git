@@ -1258,7 +1258,6 @@ sub DoNothing {print STDOUT;}
 	{'show interface'		=> 'ShowInterface'},
 	{'show ip interface'		=> 'ShowIPInterface'},
 	{'show ipv6 interface'		=> 'ShowIPv6Interface'},
-	{'show debug'			=> 'ShowDebug'},
 	{'show cores vdc-all'		=> 'ShowCores'},
 	{'show processes log vdc-all'	=> 'ShowProcLog'},
 	{'show running-config vdc-all'	=> 'WriteTerm'},
